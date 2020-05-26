@@ -1,0 +1,61 @@
+nav{
+	font-style:'Helvetica Nueu';
+	font-size: 25pt;
+	background-color: silver;
+	opacity: 0.6;
+	text-align: center;
+	word-spacing: 20px;
+	text-decoration: none;
+	border-radius: 10px;
+	margin-right:17%;
+	margin-left: 17%;
+}
+.sloupec{
+	background-color: silver;
+	border-radius: 10px;
+	border:1px solid black;
+	float: left;
+	padding: 15px;
+	width: 300px;
+	margin-right: 5px;
+}
+#left, .sloupec{
+	background-color: #BE5328;
+	border-radius: 10px;
+	border:1px solid black;
+	float: left;
+	padding: 15px;
+	width: 300px;
+	margin-right: 2px;
+	margin-left: 20px;
+}
+.stred{
+	background-color: #BE5328;
+	border-radius: 10px;
+	border:1px solid black;
+	float: left;
+	padding: 15px;
+	width: 570px;
+	margin-right: 5px;
+}
+.zahlav{
+	margin-top: 10px;
+	margin-left: 20px;
+	padding-left: 10px;
+	
+}
+#background{
+	background-color: LightSalmon;
+	height: 700px;
+	width: auto;
+	
+}
+a:visited{
+	color: black;
+}
+a{
+	text-decoration: none;
+}
+body{
+	background-color: LightSalmon;
+}

@@ -1,0 +1,61 @@
+.ZAG {
+	font-family: 'Helvetica Nueu';
+	color: black ;
+	margin: 1px 0px 0px 5px;
+	text-align: left;
+	width: 200px;
+	height: 2px
+	background-color: white;
+}
+.text {
+	font-family: 'Helvetica Nueu';
+	background-color: white;
+	opacity: 0.99;
+	margin: -17% 10% 10% 30%;
+	text-align: justify;
+	font-style: italic;
+	font-size:15pt;
+	color:black;
+	border-radius: 10px;
+	margin-right: 10px;
+	padding: 5px;
+	border: 1px solid black;
+	float: left;
+	
+}
+nav{
+	font-style:'Helvetica Nueu';
+	font-size: 25pt;
+	background-color: white;
+	opacity: 0.6;
+	text-align: center;
+	word-spacing: 20px;
+	text-decoration: none;
+	border-radius: 10px;
+	margin-right:17%;
+	margin-left: 17%;
+}
+.img{
+	margin: 0px 0% 0% -10px;
+	width: 25%;
+	height:30%;
+	text-align: left;
+	border: 2px solid white;
+}
+body{
+	background-image:  url("../image/teslamodelsbackground.jpg");
+	background-repeat: no-repeat;
+	background-size: 125%;
+	background-attachment:fixed;
+	background-position:center;
+}
+a:visited{
+	color: black;
+
+}	
+a{
+	text-decoration: none;
+}
+
+
+	

@@ -1,0 +1,56 @@
+h1{
+	font-size: 50px;
+}
+nav{
+	font-style:'Helvetica Nueu';
+	font-size: 25pt;
+	background-color: silver;
+	opacity: 0.6;
+	text-align: center;
+	word-spacing: 20px;
+	text-decoration: none;
+	border-radius: 10px;
+	margin-right:17%;
+	margin-left: 17%;
+}
+#ZAHLAV{
+	font-size: 25pt;
+	
+}
+.list{
+	background-color: white;
+	margin:10px;
+	margin-right: 10%;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	border-radius: 10px;	
+	border: 1px solid black;
+}
+.social{
+	padding:-10px 0px 0px 0px;
+	border: 1px solid black;
+	border-radius: 10px;
+	word-spacing: 10px;
+	height: 100px;
+}
+ul.hr{
+	margin: 1;
+	background-position: center;
+	margin-top: 10px;
+	size: 45px;
+	right: 0px; bottom: 0px;
+	font-size: 20pt;
+}
+ul.hr li{
+	display: inline;
+}
+a:visited{
+	color: black;
+}
+a{
+	text-decoration: none;
+}
+body{
+	position: relative;
+}
+

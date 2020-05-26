@@ -1,0 +1,60 @@
+header {
+	font-family: 'Helvetica Nueu';
+	background-color: white;
+	opacity: 0.6;
+	margin: 1px 30% 5% 30%;
+	color: black ;
+	text-align: center;
+	font-size: 50pt;
+	size: 100pt;
+	border-radius: 10px;
+
+}
+body {
+	position: relative;
+	background-image:  url("../image/TeslaBG3.jpg") ;
+	background-repeat: no-repeat;
+	background-size: 110%;
+	background-position: relative; 
+	background-attachment: fixed;   
+}
+#TextGlav {
+	font-family: 'Helvetica Nueu';
+	background-color: white;
+	opacity: 0.6;
+	margin: 110px 10% 2% 20%;
+	font-style: italic;
+	font-size:25pt;
+	color:black;
+	border-radius: : 10px;
+	border-bottom: 2px solid;
+	border-left: 2px solid;
+	padding-left: 2pt;
+	padding-right: 2pt;
+}
+
+img{
+	margin: 85px 0% 0% -40px;
+	width: 20%;
+	height:20%;
+	text-align: left;
+	background-attachment: fixed;
+}
+nav{
+	font-style:'Helvetica Nueu';
+	font-size: 25pt;
+	background-color: white;
+	opacity: 0.6;
+	text-align: center;
+	word-spacing: 20px;
+	text-decoration: none;
+	border-radius: 10px;
+	margin-right:17%;
+	margin-left: 17%;
+}
+a:visited {
+    color:black;
+}
+a{
+	text-decoration: none;
+}
